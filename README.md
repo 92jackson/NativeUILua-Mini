@@ -1,6 +1,6 @@
 # This is the last version of NativeUI LUA by Frazzle (2.1.0) MINIFIED.
 
-While the NativeUI LUA project is dead and newer alternatives are available, this version of NativeUI still has its uses. With no updates been pushed over the past few yeqars, I decided to minify the code for my own use, which I upload here in case it casn be any use to anyone else.
+While the NativeUI LUA project is dead and newer alternatives are available, this version of NativeUI still has its uses. With no updates been pushed over the past few years, I decided to minify the code for my own use, which I upload here just in case it can be of any use to anyone else.
 All credit goes to Frazzle for his work.
 --------------------------------------------------------------------------------
 ⚠️ I've stopped development of this resource @iTexZoz seems to have picked it up: https://github.com/iTexZoz/NativeUILua-Reloaded
